@@ -2,8 +2,8 @@
 
 
 General execution steps of the program described below:
-1. Firstly the file1.py accept http requests and write the request body to file by name "http_requests.log".
-2. file2.py replace strings which is between two '$' sign with strings from wordlist and send http requests to given url.
+1. Firstly the accepting_requests.py accept http requests and write the request body to file by name "http_requests.log".
+2. editing_requests.py replace strings which is between two '$' sign with strings from wordlist and send http requests to given url.
 
 For example:
 
