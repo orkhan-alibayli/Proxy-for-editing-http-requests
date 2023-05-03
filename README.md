@@ -1,4 +1,4 @@
-# Tool-like-Burp-Intruder
+# Proxy for editing http requests
 Simplified version of Burp Suite Intruder written in python language.
 
 
