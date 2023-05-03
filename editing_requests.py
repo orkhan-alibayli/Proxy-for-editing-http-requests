@@ -11,7 +11,7 @@ string_to_change_regex = '(\$.*?\$)'
 url = 'https://0a3500960335e87ec07ca5ae004a00ae.web-security-academy.net/login2'
 
 #http payload file
-payload_file = 'payload.txt'
+payload_file = 'http_requests.log'
 
 #wordlist to bruteforce
 wordlist_file = 'wordlist.txt'
