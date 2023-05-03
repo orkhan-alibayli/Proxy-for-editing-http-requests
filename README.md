@@ -1,8 +1,9 @@
 # Proxy for editing http requests
-Simplified version of Burp Suite Intruder written in python language.
 
 
-This python code replace strings which is between two '$' sign with strings from wordlist and send http requests to given url.
+General execution steps of the program described below:
+1. Firstly the file1.py accept http requests and write the request body to file by name "http_requests.log".
+2. file2.py replace strings which is between two '$' sign with strings from wordlist and send http requests to given url.
 
 For example:
 
